@@ -54,4 +54,5 @@ def matrix_update(matrix, row, column, new_value)
     matrix
   else 
     matrix 
+  end 
 end
